@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Welcome to the shape calculator: \n" << endl;
 }
 
